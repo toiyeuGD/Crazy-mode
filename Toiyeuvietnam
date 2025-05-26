@@ -1,0 +1,61 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MuhXd/DoorSuff/main/OtherSuff/Sprint"))()
+
+-- Depth
+coroutine.wrap(function()
+    while true do
+        wait(80)
+        game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+loadstring(game:HttpGet('https://pastefy.app/BItVDA0u/raw'))()
+    end
+end)()
+
+-- Nightmare Rush
+coroutine.wrap(function()
+    while true do
+        wait(180)
+        game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+loadstring(game:HttpGet(''))()
+    end
+end)()
+
+-- Nightmare Ambush
+coroutine.wrap(function()
+    while true do
+        wait(300)
+        game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+loadstring(game:HttpGet(''))()
+    end
+end)()
+
+-- Trauma
+coroutine.wrap(function()
+    while true do
+        wait(100)
+        game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Kotyara19k-Doorsspawner/Random-files/main/TraumaSoucreSpawner'))()
+    end
+end)()
+
+-- Vhs!Sans
+coroutine.wrap(function()
+    while true do
+        wait(200)
+        game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+loadstring(game:HttpGet(''))()
+    end
+end)()
+
+-- 200
+coroutine.wrap(function()
+    while true do
+        wait(200)
+        game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+loadstring(game:HttpGet('https://pastefy.app/1xxpTxo3/raw'))()
+    end
+end)()
